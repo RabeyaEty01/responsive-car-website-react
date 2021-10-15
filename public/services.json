@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "ENGINE DIAGNOSTIC",
+        "price": "300",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium, officiis, dolorem nihil, autem ad in error numquam veritatis exercitationem quidem delectus sed! Eligendi rerum fugiat vel neque. Reprehenderit, vitae officiis?",
+        "img": "https://i.ibb.co/mzLRfqP/2.jpg"
+    },
+    {
+        "id": 2,
+        "name": "WHEEL ALIGNMENT",
+        "price": "300",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium, officiis, dolorem nihil, autem ad in error numquam veritatis exercitationem quidem delectus sed! Eligendi rerum fugiat vel neque. Reprehenderit, vitae officiis?",
+        "img": "https://i.ibb.co/60jLRc6/1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "REPLACE TIRE",
+        "price": "250",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium, officiis, dolorem nihil, autem ad in error numquam veritatis exercitationem quidem delectus sed! Eligendi rerum fugiat vel neque. Reprehenderit, vitae officiis?",
+        "img": "https://i.ibb.co/tBT3t7C/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "EBRAKE REPAIRING",
+        "price": "180",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium, officiis, dolorem nihil, autem ad in error numquam veritatis exercitationem quidem delectus sed! Eligendi rerum fugiat vel neque. Reprehenderit, vitae officiis?",
+        "img": "https://i.ibb.co/CwwJHqD/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "WASH AND GLASSING",
+        "price": "100",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium, officiis, dolorem nihil, autem ad in error numquam veritatis exercitationem quidem delectus sed! Eligendi rerum fugiat vel neque. Reprehenderit, vitae officiis?",
+        "img": "https://i.ibb.co/RvBL2Fm/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "OIL CHANGING",
+        "price": "150",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium, officiis, dolorem nihil, autem ad in error numquam veritatis exercitationem quidem delectus sed! Eligendi rerum fugiat vel neque. Reprehenderit, vitae officiis?",
+        "img": "https://i.ibb.co/1ZNVFhN/6.jpg"
+    }
+]
